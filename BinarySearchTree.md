@@ -22,3 +22,5 @@ https://app.patika.dev/ScienceHunter
 8. 9 değeri 8'den büyüktür. Bu nedenle 8'in sağında yer alacaktır. 
 9. 4 değeri 5'ten küçük - 3'ten büyüktür. Bu nedenle 3'ün sağında yer alacaktır. 
 10. 2 değeri 3'ten küçüktür. Bu nedenle 3'ün solunda yer alacaktır.
+
+Görsel için faydalanılan kaynak: https://www.cs.usfca.edu/~galles/visualization/BST.html
